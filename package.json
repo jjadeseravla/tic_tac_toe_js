@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jjadeseravla/tic_tac_toe_js/issues"
   },
-  "homepage": "https://github.com/jjadeseravla/tic_tac_toe_js#readme"
+  "homepage": "https://github.com/jjadeseravla/tic_tac_toe_js#readme",
+  "dependencies": {
+    "nodemon": "^1.18.7"
+  }
 }
